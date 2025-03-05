@@ -41,7 +41,7 @@ python app.py
 📸 Demo Screenshot
 ![Screenshot 2024-06-12 113835](https://github.com/user-attachments/assets/19aa7263-2b7e-4716-9602-e8e75c48a9f1)
 
-![Screenshot 2024-06-12 113835](https://github.com/user-attachments/assets/d75802b3-84da-48b5-ada8-7537c3e456c9)
+
 
 
 
